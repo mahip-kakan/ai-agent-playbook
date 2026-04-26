@@ -340,15 +340,6 @@ Contributions are welcome! See [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines
 
 ---
 
-## Star History
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mahip-kakan/ai-agent-playbook&type=date&legend=top-left"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mahip-kakan/ai-agent-playbook&type=date&legend=top-left"/>
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mahip-kakan/ai-agent-playbook&type=date&legend=top-left"/>
-</picture>
-
----
 
 ## 📜 License
 
