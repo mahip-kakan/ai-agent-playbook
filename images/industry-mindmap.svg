@@ -1,0 +1,165 @@
+<svg viewBox="0 0 960 760" width="960" height="760" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f6fb"/>
+  <defs>
+    <style>
+      .ind { font: 600 11px 'Segoe UI', Arial, sans-serif; fill:#1a2e3b; }
+      .sub { font: 400  9px 'Segoe UI', Arial, sans-serif; fill:#4a6f8a; }
+      .eye { font: 500  7px 'Courier New', monospace; fill:#7a9db5; letter-spacing:.1em; }
+      .eye-acc { font: 500 7px 'Courier New', monospace; fill:#1e90d6; letter-spacing:.1em; }
+    </style>
+  </defs>
+
+  <!-- ── Centre hub ── -->
+  <rect x="380" y="325" width="200" height="64" rx="10"
+        fill="rgba(30,144,214,0.10)" stroke="#1e90d6" stroke-width="1.8"/>
+  <text x="480" y="350" class="ind" text-anchor="middle" font-size="14">AI Agents</text>
+  <text x="480" y="368" class="sub" text-anchor="middle" font-size="10">Industry Use Cases</text>
+  <text x="480" y="382" class="eye" text-anchor="middle">16 INDUSTRIES</text>
+
+  <!-- ═══════════════  LEFT  ═══════════════ -->
+
+  <!-- Healthcare -->
+  <line x1="380" y1="348" x2="232" y2="72" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="50" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="136" y="63" class="eye">HEALTHCARE</text>
+  <text x="168" y="78" class="ind" text-anchor="middle">Healthcare</text>
+  <text x="168" y="90" class="sub" text-anchor="middle">diagnostics · insights</text>
+
+  <!-- Finance -->
+  <line x1="380" y1="345" x2="232" y2="142" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="120" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="130" y="133" class="eye">FINANCE</text>
+  <text x="168" y="148" class="ind" text-anchor="middle">Finance</text>
+  <text x="168" y="160" class="sub" text-anchor="middle">trading · fraud · advising</text>
+
+  <!-- Education -->
+  <line x1="380" y1="345" x2="232" y2="212" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="190" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="134" y="203" class="eye">EDUCATION</text>
+  <text x="168" y="218" class="ind" text-anchor="middle">Education</text>
+  <text x="168" y="230" class="sub" text-anchor="middle">tutors · learning paths</text>
+
+  <!-- Customer Service -->
+  <line x1="380" y1="350" x2="232" y2="282" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="260" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="128" y="273" class="eye">CUSTOMER SVC</text>
+  <text x="168" y="288" class="ind" text-anchor="middle">Customer Service</text>
+  <text x="168" y="300" class="sub" text-anchor="middle">chatbots · 24/7 support</text>
+
+  <!-- Retail -->
+  <line x1="380" y1="357" x2="232" y2="357" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="335" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="128" y="348" class="eye">RETAIL</text>
+  <text x="168" y="363" class="ind" text-anchor="middle">Retail</text>
+  <text x="168" y="375" class="sub" text-anchor="middle">recommendations · pricing</text>
+
+  <!-- Transportation -->
+  <line x1="380" y1="368" x2="232" y2="428" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="406" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="122" y="419" class="eye">TRANSPORTATION</text>
+  <text x="168" y="434" class="ind" text-anchor="middle">Transportation</text>
+  <text x="168" y="446" class="sub" text-anchor="middle">routing · delivery</text>
+
+  <!-- Manufacturing -->
+  <line x1="380" y1="375" x2="232" y2="498" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="476" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="120" y="489" class="eye">MANUFACTURING</text>
+  <text x="168" y="504" class="ind" text-anchor="middle">Manufacturing</text>
+  <text x="168" y="516" class="sub" text-anchor="middle">monitoring · quality ctrl</text>
+
+  <!-- Real Estate -->
+  <line x1="380" y1="380" x2="232" y2="568" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="104" y="546" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="126" y="559" class="eye">REAL ESTATE</text>
+  <text x="168" y="574" class="ind" text-anchor="middle">Real Estate</text>
+  <text x="168" y="586" class="sub" text-anchor="middle">pricing · virtual tours</text>
+
+  <!-- ═══════════════  RIGHT  ═══════════════ -->
+
+  <!-- Agriculture (focal) -->
+  <line x1="580" y1="348" x2="728" y2="72" stroke="#1e90d6" stroke-width="1.2"/>
+  <rect x="728" y="50" width="128" height="44" rx="6" fill="rgba(30,144,214,0.08)" stroke="#1e90d6" stroke-width="1.2"/>
+  <text x="756" y="63" class="eye-acc">AGRICULTURE</text>
+  <text x="792" y="78" class="ind" text-anchor="middle">Agriculture</text>
+  <text x="792" y="90" class="sub" text-anchor="middle">farming · crop monitoring</text>
+
+  <!-- Energy -->
+  <line x1="580" y1="345" x2="728" y2="142" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="120" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="756" y="133" class="eye">ENERGY</text>
+  <text x="792" y="148" class="ind" text-anchor="middle">Energy</text>
+  <text x="792" y="160" class="sub" text-anchor="middle">grid mgmt · forecasting</text>
+
+  <!-- Entertainment -->
+  <line x1="580" y1="345" x2="728" y2="212" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="190" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="746" y="203" class="eye">ENTERTAINMENT</text>
+  <text x="792" y="218" class="ind" text-anchor="middle">Entertainment</text>
+  <text x="792" y="230" class="sub" text-anchor="middle">content · personalization</text>
+
+  <!-- Legal -->
+  <line x1="580" y1="350" x2="728" y2="282" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="260" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="758" y="273" class="eye">LEGAL</text>
+  <text x="792" y="288" class="ind" text-anchor="middle">Legal</text>
+  <text x="792" y="300" class="sub" text-anchor="middle">doc review · contracts</text>
+
+  <!-- Human Resources -->
+  <line x1="580" y1="357" x2="728" y2="357" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="335" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="764" y="348" class="eye">HR</text>
+  <text x="792" y="363" class="ind" text-anchor="middle">Human Resources</text>
+  <text x="792" y="375" class="sub" text-anchor="middle">recruiting · workforce</text>
+
+  <!-- Hospitality -->
+  <line x1="580" y1="368" x2="728" y2="428" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="406" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="754" y="419" class="eye">HOSPITALITY</text>
+  <text x="792" y="434" class="ind" text-anchor="middle">Hospitality</text>
+  <text x="792" y="446" class="sub" text-anchor="middle">travel · booking agents</text>
+
+  <!-- Gaming -->
+  <line x1="580" y1="375" x2="728" y2="498" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="476" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="758" y="489" class="eye">GAMING</text>
+  <text x="792" y="504" class="ind" text-anchor="middle">Gaming</text>
+  <text x="792" y="516" class="sub" text-anchor="middle">NPC · companion · design</text>
+
+  <!-- Cybersecurity -->
+  <line x1="580" y1="380" x2="728" y2="568" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="728" y="546" width="128" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="744" y="559" class="eye">CYBERSECURITY</text>
+  <text x="792" y="574" class="ind" text-anchor="middle">Cybersecurity</text>
+  <text x="792" y="586" class="sub" text-anchor="middle">threat detection · red team</text>
+
+  <!-- ── Supply Chain (bottom centre) ── -->
+  <line x1="480" y1="389" x2="480" y2="650" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="352" y="650" width="256" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="388" y="663" class="eye">SUPPLY CHAIN</text>
+  <text x="480" y="678" class="ind" text-anchor="middle">Supply Chain</text>
+  <text x="480" y="690" class="sub" text-anchor="middle">logistics · inventory · route optimisation</text>
+
+  <!-- ── E-commerce (bottom-left) ── -->
+  <line x1="420" y1="389" x2="240" y2="660" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="96" y="638" width="144" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="112" y="651" class="eye">E-COMMERCE</text>
+  <text x="168" y="666" class="ind" text-anchor="middle">E-commerce</text>
+  <text x="168" y="678" class="sub" text-anchor="middle">shopper · dynamic pricing</text>
+
+  <!-- ── Health Insurance (bottom-right) ── -->
+  <line x1="540" y1="389" x2="720" y2="660" stroke="#4a6f8a" stroke-width="1"/>
+  <rect x="720" y="638" width="144" height="44" rx="6" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="736" y="651" class="eye">HEALTH INSUR.</text>
+  <text x="792" y="666" class="ind" text-anchor="middle">Health Insurance</text>
+  <text x="792" y="678" class="sub" text-anchor="middle">claims · workflow automation</text>
+
+  <!-- ── Legend ── -->
+  <line x1="40" y1="726" x2="920" y2="726" stroke="rgba(26,46,59,0.12)" stroke-width="0.8"/>
+  <rect x="44" y="732" width="12" height="12" rx="2" fill="rgba(30,144,214,0.10)" stroke="#1e90d6" stroke-width="1.2"/>
+  <text x="62" y="741" class="eye">HUB</text>
+  <rect x="104" y="732" width="12" height="12" rx="2" fill="rgba(30,144,214,0.06)" stroke="#1e90d6" stroke-width="1"/>
+  <text x="122" y="741" class="eye-acc">FOCAL INDUSTRY</text>
+  <rect x="252" y="732" width="12" height="12" rx="2" fill="#fff" stroke="#1a2e3b" stroke-width="1"/>
+  <text x="270" y="741" class="eye">INDUSTRY NODE</text>
+  <text x="560" y="741" class="eye">AI AGENT PLAYBOOK · MAHIP KAKAN · MIT 2026</text>
+</svg>
